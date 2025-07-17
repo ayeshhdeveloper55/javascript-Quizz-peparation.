@@ -1,0 +1,162 @@
+Chapter 1–10: QUIZZ
+ 1-What does alert("Hello World!"); do?
+A) Declares a variable
+B) Shows a pop-up message box ✔
+C) Prints to console
+D) Creates a function
+
+ 2-What is a text string?
+A) A number in quotes
+B) A variable name
+C) A series of characters in quotes ✔
+D) A mathematical formula
+
+3-What keyword is used to declare a variable in JavaScript?
+A) let
+B) const
+C) var ✔
+D) string
+
+4-Which of the following is a valid string variable declaration?
+A) var 123name = "Ali";
+B) var name = "Ali"; ✔
+C) var name = Ali;
+D) var name: "Ali";
+
+5-Which of the following is a correct way to display a variable in an alert?
+A) alert(name); ✔
+B) alert."name"
+C) alert name;
+D) popup(name);
+
+Chapter 3: Variables for Numbers
+Which of these is a number variable declaration?
+A) var weight = "150";
+B) var weight = 150; ✔
+C) var 150 = weight;
+D) var = 150 weight;
+
+1-What will alert(100 + 50); display?
+A) 100 + 50
+B) "10050"
+C) 150 ✔
+D) Error
+
+2-What is the result of var a = "23"; var b = a + 7;?
+A) 30
+B) 16
+C) "237" ✔
+D) Error
+
+3-Can a variable change from string to number?
+A) No
+B) Yes ✔
+C) Only with let
+D) Only inside functions
+
+4-What will var qty = 144; alert(qty); do?
+A) Show “qty”
+B) Show “144” ✔
+C) Throw error
+D) Show undefined
+
+Chapter 4: Legal & Illegal Variable Names
+1-Which variable name is illegal in JavaScript?
+A) var userName;
+B) var $name;
+C) var 1stUser; ✔
+D) var _user;
+
+2-What does “case-sensitive” mean in JavaScript variables?
+A) JavaScript checks font size
+B) User and user are different ✔
+C) Variables must be lowercase
+D) Uppercase is not allowed
+
+3-What is camelCase?
+A) All caps
+B) All lowercase
+C) First word lowercase, others capitalized ✔
+D) Only one-word variable
+
+Chapter 5–7: Math Expressions
+1-What is the result of var num = 10 + 5;?
+A) 15 ✔
+B) 105
+C) 10 + 5
+D) "15"
+
+2-Which operator is used for division?
+A) \
+B) %
+C) / ✔
+D) :
+
+3-What does % (modulus) return?
+A) Decimal result
+B) Division result
+C) Remainder ✔
+D) Percentage
+
+4-What will be the result of var result = 1 + 3 * 4;?
+A) 16
+B) 13 ✔
+C) 8
+D) 24
+
+5-What is the value of var total = (1 + 3) * 4;?
+A) 7
+B) 12
+C) 16 ✔
+D) 13
+
+Chapter 6: Increment/Decrement Operators
+What does num++; do?
+A) Multiplies by 2
+B) Increments num by 1 ✔
+C) Sets num to 0
+D) Declares a new variable
+
+1-What is the result of var num = 5; var newNum = ++num;?
+A) newNum = 5
+B) newNum = 6 ✔
+C) Error
+D) newNum = num
+
+Chapter 8: Concatenating Strings
+1-What does string concatenation mean?
+A) Deleting strings
+B) Changing case
+C) Joining strings together ✔
+D) Looping through strings
+
+2-What is the result of alert("Hello " + "World");?
+A) HelloWorld
+B) "Hello + World"
+C) Hello World ✔
+D) Error
+
+3-What will this code show?
+
+var a = "2";  
+var b = 2;  
+alert(a + b);
+A) 4
+B) 22 ✔
+C) Error
+D) "4"
+
+Chapter 9–10: Prompts & If Statements
+1-What does prompt() do?
+A) Displays a warning
+B) Gets input from user ✔
+C) Calculates numbers
+D) Clears the console
+
+2-What does this if statement do?
+var answer = "yes";  
+if (answer === "yes") { alert("Correct!"); }
+A) Always runs
+B) Runs only if answer is "yes" ✔
+C) Never runs
+D) Compares numbers only
